@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, Seja Bem-Vindo!!! 👋
 
 <!--
 **sam8o/Sam8o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
