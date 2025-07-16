@@ -10,7 +10,7 @@
 ### 🧑‍💻 Sobre mim
 
 - 🚀 Desenvolvedor Front-End Júnior
-- 💡 Habilidades: HTML, CSS, Git, GitHub, JavaScript
+- 💡 Habilidades: HTML, CSS, Git, GitHub, JavaScript, React e TypeScript 
 - 🎯 Focado em evoluir como dev com disciplina e fé
 - 📍 Localização: Senador Canedo - GO
 - 🔗 [Meu LinkedIn](https://www.linkedin.com/in/samuel-c-santos-a842a429b/)
