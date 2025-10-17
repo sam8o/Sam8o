@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:samuelcontato.dev@gmail.com">
+  <a href="mailto:samgh387@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/samuel-c-santos-a842a429b/">
